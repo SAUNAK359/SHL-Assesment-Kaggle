@@ -1,0 +1,16 @@
+# Local source archive and full extracted Kaggle workspace
+Version8/
+SHL_V8_All_Artifacts.zip
+
+# Local extraction mirror; tracked review artifacts live under reports/
+artifacts/v8/
+
+# Generated model/cache files if produced elsewhere
+*.npz
+*.joblib
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+

@@ -1,0 +1,8 @@
+{
+  "train_rows": 769,
+  "test_rows": 216,
+  "original_template_rows": 204,
+  "template_status": "incompatible IDs; schema reconstructed from test.csv",
+  "group_column": null,
+  "unique_groups": 769
+}
